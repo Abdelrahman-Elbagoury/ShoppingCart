@@ -1,2 +1,2 @@
 # ShoppingCart
-It's sample for shopping cart using React framework
+React.js application which is sample for shopping.
